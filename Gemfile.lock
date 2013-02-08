@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gosu (0.7.45)
+    isna (0.0.4)
+    ruby-player (0.6.0)
+      isna (~> 0.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gosu
+  ruby-player
